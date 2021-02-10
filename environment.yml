@@ -1,0 +1,4 @@
+name: kesr
+channels:
+  - defaults
+prefix: C:\Users\USER\Anaconda3\envs\kesr
